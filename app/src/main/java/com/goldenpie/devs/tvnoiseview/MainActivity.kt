@@ -7,6 +7,6 @@ import devs.goldenpie.com.tvnoiseview.TvNoiseView
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(TvNoiseView(this))
+        setContentView(R.layout.main_activity)
     }
 }
