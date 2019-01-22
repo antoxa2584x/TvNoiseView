@@ -1,5 +1,5 @@
 # TvNoiseView
-[![](https://jitpack.io/v/antoxa2584x/TvNoiseView.svg)](https://jitpack.io/#antoxa2584x/TvNoiseView)
+[![](https://jitpack.io/v/antoxa2584x/TvNoiseView.svg)](https://jitpack.io/#antoxa2584x/TvNoiseView) [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-TvNoiseView-green.svg?style=flat )]( https://android-arsenal.com/details/1/7477 )
 
 ## How to
 To get a Git project into your build:
@@ -20,7 +20,7 @@ Add it in your root build.gradle at the end of repositories:
 	        implementation 'com.github.antoxa2584x:TvNoiseView:Tag'
 	}
   
-### Add view to your xml
+### Step 3. Add view to your xml
     <devs.goldenpie.com.tvnoiseview.TvNoiseView
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
